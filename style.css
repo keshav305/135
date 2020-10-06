@@ -1,0 +1,29 @@
+body{
+    background-size:cover;
+}
+.heading{
+    size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#start ,#namber_of_objects,#status{
+    font-size: 18px;
+}
+
+.copy-rigth-footer{
+    position:fixed;
+    color: #6c757d;
+    bottom: 0;
+    width: 100%;
+    background-color: #6c757d;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    border: 2px solid white;
+    border-radius:10px;
+    margin-top: 130px;
+    box-sizing: 5px 5px 5px white;
+}
